@@ -1,21 +1,23 @@
 <center>
-###嵌入式实验报告
+##嵌入式实验报告
 </center>
 
-**姓名**：杨晨西　　　　　　　　　　　　**学号**：14353351　　　　　　　**实验**：DOL实例分析　　　　**完成日期**：2016.10.20  
+**姓名**：杨晨西　　　　**学号**：14353351　　　**实验**：DOL实例分析　　**完成日期**：2016.10.20  
 
 
 #####1.修改完的dol截图  
-1. example1：0~19每个数的立方  
+1. example1：0~19每个数的立方    
+
 ![example1](http://i.imgur.com/E8Ay5b3.png)      
 
 dot截图：  
 ![example1_dol](http://i.imgur.com/ur453hA.png)　　
 
-2. example2：0~19每个数的四次方，两个square  
+2. example2：0~19每个数的四次方，两个square    
+3. 
 ![example2](http://i.imgur.com/SafaDBD.png)    
 
-dot截图：只剩下两个square  
+dot截图：只剩下两个square    
 ![example2_dpl](http://i.imgur.com/nVuNX3m.png)
 #####2.如何修改的解释
 ######A修改example2，让三个square变成两个
