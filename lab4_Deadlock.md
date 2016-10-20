@@ -6,8 +6,10 @@
 1. 在Ubuntu里面新建一个java文件，编写一个可能会造成死锁的程序。
 2. 在终端运行 javac <文件名>编译我们写的java文件
 3. 建立一个后缀为bash的脚本文件，在终端输入“chmod +x <bash文件名>”使得脚本可运行；再输入“ ./<脚本文件名> ”运行脚本
-### 二、死锁停在第几次的截图
-![Deadlock](http://i.imgur.com/4nicOZY.png)
+### 二、死锁停在第几次的截图  
+
+![Deadlock](http://i.imgur.com/4nicOZY.png)  
+
 ###三、产生死锁的4个必要条件
 
 
